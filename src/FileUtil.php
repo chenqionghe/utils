@@ -1,10 +1,10 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * Class FileUtil
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 final class FileUtil
 {

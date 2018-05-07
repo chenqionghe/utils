@@ -6,11 +6,11 @@
  * Time: 上午10:21
  */
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * Class HttpUtil
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 class HttpUtil
 {

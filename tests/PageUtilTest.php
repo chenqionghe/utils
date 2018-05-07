@@ -1,5 +1,5 @@
 <?php
-use CQH\Utils\PageUtil;
+use chenqionghe\Utils\PageUtil;
 use PHPUnit\Framework\TestCase;
 
 class PageUtilTest extends TestCase

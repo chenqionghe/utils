@@ -1,11 +1,11 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * Class LBasicAuth.
  * http参数基础验证类(仅基于秘钥).
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 class LBasicAuth
 {

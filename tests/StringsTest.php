@@ -1,5 +1,5 @@
 <?php
-use CQH\Utils\Strings;
+use chenqionghe\Utils\Strings;
 use PHPUnit\Framework\TestCase;
 
 

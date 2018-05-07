@@ -1,5 +1,5 @@
 {
-  "name": "cube-group/myaf-utils",
+  "name": "chenqionghe/myaf-utils",
   "description": "utils",
   "keywords": [
     "base"
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "CQH\\Utils\\": "src/"
+      "chenqionghe\\Utils\\": "src/"
     }
   },
   "minimum-stability": "dev"

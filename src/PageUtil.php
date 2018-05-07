@@ -1,12 +1,12 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * 分页工具
  *
  * @author chenqionghe
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 class PageUtil
 {

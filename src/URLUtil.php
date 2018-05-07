@@ -1,6 +1,6 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * Class URLUtil.

@@ -1,10 +1,10 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * Class CommonUtil
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 class CommonUtil
 {

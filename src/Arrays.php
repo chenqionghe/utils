@@ -1,10 +1,10 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * Class Arrays
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 class Arrays
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * AES加密解密封装类

@@ -1,11 +1,11 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 /**
  * 字符串工具
  * Class Strings
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 class Strings
 {

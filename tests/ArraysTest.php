@@ -1,5 +1,5 @@
 <?php
-use CQH\Utils\Arrays;
+use chenqionghe\Utils\Arrays;
 use PHPUnit\Framework\TestCase;
 
 /**

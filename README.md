@@ -4,7 +4,7 @@
 
 ## namespace
 ```
-"CQH\\Utils\\": "src/"
+"chenqionghe\\Utils\\": "src/"
 ```
 
 ## 工具类

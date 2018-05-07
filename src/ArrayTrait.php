@@ -1,6 +1,6 @@
 <?php
 
-namespace CQH\Utils;
+namespace chenqionghe\Utils;
 
 use ArrayIterator;
 use Exception;
@@ -12,7 +12,7 @@ use Exception;
  * Class ArrayTrait
  *
  * @author chenqionghe
- * @package CQH\Utils
+ * @package chenqionghe\Utils
  */
 trait ArrayTrait
 {
