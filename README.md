@@ -4,7 +4,7 @@
 
 ## namespace
 ```
-"Myaf\\Utils\\": "src/"
+"CQH\\Utils\\": "src/"
 ```
 
 ## 工具类
